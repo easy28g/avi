@@ -1,0 +1,13 @@
+ .sign-in-form {
+    -fx-background-color: white;
+    -fx-background-radius: 3%;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.8), 20, 0, 0, 7);
+ }
+
+ .login-and-password-text-sign-in {
+     -fx-background-radius: 20;
+ }
+
+ .button-sign-in {
+     -fx-background-color: #698DB7;
+ }
